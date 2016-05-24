@@ -27,7 +27,7 @@ Lastly enter a description for your custom post type. This description is simply
 Now you can click on the ‘Create Custom Post Type’ button to add your new custom post type. That’s all.
 You can also click on the Advanced Label Options and Advanced Options links to customize more options for your custom post type.
 
-##Creating a Custom Post Type Manually
+## Creating a Custom Post Type Manually
 
 The problem with using a plugin is that your custom post types will disappear when the plugin is deactivated. Any data you have in those custom post types will still be there, but your custom post type will be unregistered and will not be accessible from the admin area.
 
