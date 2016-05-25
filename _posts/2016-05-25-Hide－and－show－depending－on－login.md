@@ -8,7 +8,7 @@ tags: [WordPress]
 I'm creating my own navigation. I need to show and hide a button based on the login status. If users are logged in, it shows up, if they are not, it does not show. Regardless of their permission settings.
 
 {% highlight php %}
-?php if (is_user_logged_in()): ?>
+<?php if (is_user_logged_in()): ?>
 <div id="user">
       My Profile
 </div>
