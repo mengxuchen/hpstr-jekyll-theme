@@ -23,4 +23,4 @@ I'm creating my own navigation. I need to show and hide a button based on the lo
 <?php endif; ?>
 {% endhighlight %}
 
-https://developer.wordpress.org/reference/functions/is_user_logged_in/
+<a href="https://developer.wordpress.org/reference/functions/is_user_logged_in/" target="_blank">Code Reference - is_user_logged_in()</a>
